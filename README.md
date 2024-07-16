@@ -1,4 +1,4 @@
-# LiteNetheriteGrind
+# Lite Netherite Grind
 ![Picsart_24-07-17_00-52-15-500](https://github.com/user-attachments/assets/96061505-cd4f-4574-850e-13eee9e0be4b)
 
 
