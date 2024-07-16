@@ -8,7 +8,7 @@ disable-smithing-table: true
 
 # Customise the message displayed when players are denied access to smithing tables.
 # Supports color codes.
-smithing-deny-message: "&cThis server is using Netherite Grind. Please craft Netherite tools and armor using the same recipe as their iron/gold/diamond counterparts."
+smithing-deny-message: "&cThis server is using LiteNetherite Grind. Please craft Netherite tools and armor using the same recipe as their iron/gold/diamond counterparts."
 
 # Disable the custom crafting recipe of one or more items this plugin adds.
 disable-crafting:

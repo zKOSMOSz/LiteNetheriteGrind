@@ -1,7 +1,7 @@
 package KOSMOS;
 
 import KOSMOS.BlockBreakListener;
-цimport KOSMOS.SmithingTableListener;
+import KOSMOS.SmithingTableListener;
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
 import org.bukkit.NamespacedKey;
