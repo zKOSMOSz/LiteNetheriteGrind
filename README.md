@@ -1,5 +1,6 @@
 # LiteNetheriteGrind
-![image](https://github.com/user-attachments/assets/b943bd31-642f-422a-b4b0-02e85cee496b)
+![Picsart_24-07-17_00-52-15-500](https://github.com/user-attachments/assets/96061505-cd4f-4574-850e-13eee9e0be4b)
+
 
 
 ### Lite Netherite Grind is a lite version of the Netherite Grind.
