@@ -1,0 +1,4 @@
+name: LiteNetheriteGrind
+version: '1.0'
+main: KOSMOS.LiteNetheriteGrind
+api-version: '1.18'
