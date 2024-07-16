@@ -1,6 +1,6 @@
 name: LiteNetheriteGrind
 version: '1.0'
 author: https://github.com/zKOSMOSz
-gitHub-plugin: https://github.com/zKOSMOSz/LiteNetheriteGrind
+website: https://github.com/zKOSMOSz/LiteNetheriteGrind
 main: KOSMOS.LiteNetheriteGrind
 api-version: '1.18'
