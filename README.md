@@ -12,7 +12,7 @@ If you need the standard version of the plugin, then [click here](https://www.sp
 
 The Lite Netherite Grind plugin works on versions 1.18 to 1.21
 
-If you need this plugin for an older version, then write to me: 7he_kosmos_
+If you need this plugin for an older version, then write to me in the discord: 7he_kosmos_
 
 ## For the author of the Netherite Grind plugin
 If you don't want me to post this, message me on discord: 7he_kosmos_
