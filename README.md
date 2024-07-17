@@ -3,7 +3,7 @@
 
 
 
-### Lite Netherite Grind is a lite version of the Netherite Grind.
+### Lite Netherite Grind is a fork version of the Netherite Grind with lighter crafting.
 
 ![ezgif com-gif-to-mp4-converter](https://github.com/user-attachments/assets/333816ef-5e26-40a2-bbc3-be02ad728fa2)
 
