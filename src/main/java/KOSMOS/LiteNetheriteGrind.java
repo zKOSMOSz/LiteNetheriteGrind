@@ -16,7 +16,7 @@ extends JavaPlugin {
         ShapedRecipe recipe;
         NamespacedKey key;
         ItemStack item;
-        this.getLogger().info("Enabled LiteNetheriteGrind v1.0");
+        this.getLogger().info("Enabled LiteNetheriteGrind v1.1");
         this.saveDefaultConfig();
         FileConfiguration config = this.getConfig();
         if (config.getBoolean("disable-smithing-table")) {
