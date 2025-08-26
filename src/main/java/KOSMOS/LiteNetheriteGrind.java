@@ -137,6 +137,6 @@ extends JavaPlugin {
         Bukkit.removeRecipe(new NamespacedKey(this, "NEW_NETHERITE_SHOVEL"));
         Bukkit.removeRecipe(new NamespacedKey(this, "NEW_NETHERITE_HOE_LEFT"));
         Bukkit.removeRecipe(new NamespacedKey(this, "NEW_NETHERITE_HOE_RIGHT"));
-        this.getLogger().info("Disabled LiteNetheriteGrind v1.0");
+        this.getLogger().info("Disabled LiteNetheriteGrind v1.1");
     }
 }

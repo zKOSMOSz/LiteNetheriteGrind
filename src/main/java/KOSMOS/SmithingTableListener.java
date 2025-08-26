@@ -22,7 +22,6 @@ public class SmithingTableListener
     public void onInventoryClick(InventoryClickEvent event) {
         if (event.getInventory().getType() == InventoryType.SMITHING) {
             Inventory inv = event.getInventory();
-            // Проверяем все слоты стола кузнеца на наличие шаблона апгрейда
             for (int i = 0; i < inv.getSize(); i++) {
                 ItemStack item = inv.getItem(i);
                 if (item != null && item.getType().name().equalsIgnoreCase("NETHERITE_UPGRADE_SMITHING_TEMPLATE")) {
